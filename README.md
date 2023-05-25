@@ -1,6 +1,6 @@
-<h1 align='center'>Filio</h1>
-
-
+<div align="center">
+       <img src="https://github.com/k-arthik-r/Filio/assets/111432615/31836a1a-e25d-4e08-b308-8ad78ebf0c9b" >
+</div>
 
 <div align='center'>
        <a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a> &nbsp;
@@ -9,9 +9,6 @@
 </div>
 
 --------------------------
-<div align="center">
-       <img src="https://github.com/k-arthik-r/Filio/assets/111432615/31836a1a-e25d-4e08-b308-8ad78ebf0c9b" >
-</div>
 
 <img src="https://github.com/k-arthik-r/Filio/assets/111432615/03466a67-3529-4f70-a067-dc128eb5b153" align="right" height="120px" width="120px">
 
@@ -67,6 +64,15 @@ After Importing all the mentioned modules, Run<br>
 
 ## Demo
 
+![Demo](https://github.com/k-arthik-r/Filio/assets/111432615/a38b5aea-a0ab-4af6-adab-529433aa11a1)
+
+
+------------------------------
+
+## Output
+![Output1](https://github.com/k-arthik-r/Filio/assets/111432615/0f2c7d31-3fc7-4f5d-a9f0-33a999d315a5)
+
+![Output2](https://github.com/k-arthik-r/Filio/assets/111432615/cdfc2c77-b038-4497-9e7b-98705c06a271)
 
 
 ------------------------------
