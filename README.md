@@ -1,5 +1,5 @@
 <div align="center">
-       <img src="https://raw.githubusercontent.com/k-arthik-r/Filio/main/Readme images/textlogo.png" >
+       <img src="https://raw.githubusercontent.com/k-arthik-r/Filio/main/ReadmeImages/textlogo.png" >
 </div>
 
 <div align='center'>
