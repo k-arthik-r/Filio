@@ -2,6 +2,10 @@
        <img src="https://github.com/k-arthik-r/Filio/assets/111432615/800ed0ff-5003-45b1-a8bf-b1c1983de08d" >
 </div>
 
+<!-- <div align="center">
+       <img src="https://github.com/k-arthik-r/Filio/main/Readme%20Images/textlogo.png" >
+</div> -->
+
 <div align='center'>
        <a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a> &nbsp;
         <a><img src="https://img.shields.io/badge/Tkinter-ff0000?style=for-the-badge&logo=python&logoColor=ffdd54" /></a> &nbsp;
