@@ -11,7 +11,34 @@ def browse_path():
         return path
 
 def organize_file(path_entry):
+
     path = path_entry.get()
+
+    if not os.path.exists(path):
+        errorpath = tk.Label(root, text="Plese Enter a valid path", font=('Cambria', 12, 'bold'), fg='#ff0000', bg='#000000')
+        errorpath.place(x=298, y=350)
+
+    else:        
+        processing = tk.Label(root, text="Processing... Plese Wait", font=('Cambria', 12, 'bold'), fg='#fff', bg='#000000')
+        processing.place(x=298, y=350)
+        path = path_entry.get()
+        files = os.listdir(path)
+
+        for file in files:
+            filename, extension = os.path.splitext(file)
+            extension = extension[1:]
+
+            if os.path.exists(path+'/'+extension):
+                shutil.move(path+'/'+file, path+'/'+extension+'/'+file)
+            else: 
+                os.makedirs(path+'/'+extension)
+                shutil.move(path+'/'+file, path+'/'+extension+'/'+file)
+
+        processing.destroy()
+
+        success = tk.Label(root, text="Successfully Organized ", font=('Cambria', 12, 'bold'), fg='#fff', bg='#000000')
+        success.place(x=298, y=350)
+
 
 
 root = tk.Tk()
@@ -41,10 +68,12 @@ addtext.place(x=20, y=270)
 path_entry = tk.Entry(root, width=65)
 path_entry.place(x=20, y=300)
 
-browse_button = tk.Button(root, text="Browse", command=browse_path, height=1)
+browse_button = tk.Button(root, text="Browse", command=browse_path)
 browse_button.place(x=430, y=300)
 
-organize_button = tk.Button(root, text="Organize", command=lambda:organize_file(path_entry), height=1)
+path = path_entry.get()
+
+organize_button = tk.Button(root, text="Organize", command=lambda:organize_file(path_entry))
 organize_button.place(x=220, y=450)
 
 root.mainloop()
