@@ -37,7 +37,7 @@ After Importing all the mentioned modules, Run<br>
 -------------------------
 ## Features
 
-- Organizes files in a folder by creating diffrent Directries based on the extensions of the files.
+- Organizes files in a folder by creating diffrent Directories based on the extensions of the files.
 - Unique UI created using Tkinter
 - Building up a Setup File using Innosetup
 ---------------------------
