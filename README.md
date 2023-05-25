@@ -1,17 +1,6 @@
-<!-- <div align="center">
-       <img src="https://github.com/k-arthik-r/Filio/assets/111432615/800ed0ff-5003-45b1-a8bf-b1c1983de08d" >
-</div> -->
-
-<!-- <div align="center">
-       <img src="https://user-images.githubusercontent.com/111432615/240958685-800ed0ff-5003-45b1-a8bf-b1c1983de08d.png" >
-</div> -->
-
 <div align="center">
        <img src="https://github.com/k-arthik-r/Filio/assets/111432615/05e31abd-1268-40f1-8c0b-89c6bcd874bd" >
 </div>
-
-
-
 
 <div align='center'>
        <a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a> &nbsp;
@@ -21,8 +10,7 @@
 
 --------------------------
 
-<img src="https://github.com/k-arthik-r/Filio/assets/111432615/03466a67-3529-4f70-a067-dc128eb5b153" align="right" height="120px" width="120px">
-
+<img src="https://github.com/k-arthik-r/Filio/assets/111432615/1658b9ce-c268-4dfe-87cc-ff367e14728f" align="right" height="120px" width="120px">
 
 <p text-align="left">A File Organizer Application which is Built Using Tkinter in Python along with several other Modules involved with it.</p><br /><br />
 
@@ -76,16 +64,15 @@ After Importing all the mentioned modules, Run<br>
 
 ## Demo
 
-![Demo](https://github.com/k-arthik-r/Filio/assets/111432615/a38b5aea-a0ab-4af6-adab-529433aa11a1)
+![Demo](https://github.com/k-arthik-r/Filio/assets/111432615/4751a858-062c-44c4-8c26-62aeee2ccd3f)
 
 
 ------------------------------
 
 ## Output
-![Output1](https://github.com/k-arthik-r/Filio/assets/111432615/0f2c7d31-3fc7-4f5d-a9f0-33a999d315a5)
+![before](https://github.com/k-arthik-r/Filio/assets/111432615/84807e8c-04ab-4d46-924e-6b23f8623151)
 
-![Output2](https://github.com/k-arthik-r/Filio/assets/111432615/cdfc2c77-b038-4497-9e7b-98705c06a271)
-
+![after](https://github.com/k-arthik-r/Filio/assets/111432615/6fe5fca7-ed1e-4730-92d1-d749400b2ed1)
 
 ------------------------------
 ## Setup
