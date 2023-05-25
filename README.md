@@ -12,6 +12,9 @@
 
 <img src="https://github.com/k-arthik-r/Filio/assets/111432615/03466a67-3529-4f70-a067-dc128eb5b153" align="right" height="120px" width="120px">
 
+![logoname](https://github.com/k-arthik-r/Filio/assets/111432615/31f1f89d-7473-4641-a28f-5b56d9c715de)
+
+
 <p text-align="left">A File Organizer Application which is Built Using Tkinter in Python along with several other Modules involved with it.</p><br /><br />
 
 
