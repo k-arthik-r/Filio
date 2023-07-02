@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
        <img src="https://github.com/k-arthik-r/Filio/assets/111432615/05e31abd-1268-40f1-8c0b-89c6bcd874bd" >
 </div>
 
